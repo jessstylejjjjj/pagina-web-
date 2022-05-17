@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    margin: 0;
+    padding: 0;
+	width: 100%;
+	height: 100vh;
+    background: url( "Imagenes/colour-1885352.jpg");   
+    background-size: cover;
+    background-position: center center;
+    font-family: sans-serif;
+}
